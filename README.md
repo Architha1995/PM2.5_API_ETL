@@ -6,5 +6,5 @@ The generate_reports.py file reads the saved CSV for the device, to generate the
 1. A danger threshold CSV which shows the times when PM 2.5 level went above danger threshold of 30.
 2. A report which stores daily average, maximum and minimum for PM 2.5 level for each day in the saved CSV.
 
-To read date and save it locally , run the command : python3 fetch_data.py
-To generate reports, run the command : python3 generate_reports.py
+To read date and save it locally , run the command : python3 fetch_data.py.
+To generate reports, run the command : python3 generate_reports.py.
